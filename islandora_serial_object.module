@@ -464,10 +464,7 @@ function islandora_serial_object_islandora_intermediateCModel_islandora_derivati
   return $derivatives;
 }
 
-/**
- * Token hook from @helmo at https://www.drupal.org/project/token/issues/2021969
- */
-
+// Token hook from @helmo at https://www.drupal.org/project/token/issues/2021969
 /**
  * Implements hook_token_info().
  *
